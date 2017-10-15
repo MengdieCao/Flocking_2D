@@ -66,7 +66,7 @@ void draw() {
   }
   //rect(frameCount * frameCount % width, 0, 40, height);
   
-  saveFrame("frames/####.png");
+  //saveFrame("frames/####.png");
  
 }
 
